@@ -1,4 +1,4 @@
-name: "VGG_ddbox_SSD_300x300_test"
+name: "VGG_gtbox_SSD_300x300_test"
 layer {
   name: "data"
   type: "AnnotatedData"
